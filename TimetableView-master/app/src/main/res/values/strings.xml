@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TimetableViewDemo</string>
+    <string name="remind_me">Remind me</string>
+    <string name="set_reminder">Set reminder</string>
+
+    <string-array name="header_title">
+        <item></item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+    </string-array>
+
+    <string-array name="days">
+        <item >Mon</item>
+        <item >Tue</item>
+        <item >Wed</item>
+        <item >Thu</item>
+        <item >Fri</item>
+        <item >Sat</item>
+    </string-array>
+</resources>
